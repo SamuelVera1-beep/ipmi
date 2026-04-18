@@ -253,8 +253,4 @@ vertex(624, 395);
 vertex(625, 385);
 vertex(605,387);
 endShape();
-
-fill(255);
-text(mouseX + "–" + mouseY, mouseX, mouseY);
-println(mouseX + "–" + mouseY);
 }
